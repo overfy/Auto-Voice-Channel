@@ -1,0 +1,17 @@
+{
+    "prefix" : "room.",
+    "mongooseConnectionString" : "",
+    "premium": "919429162421350451",
+
+    "help" : "#ffb100",
+    "voice" : "#6c66ff",
+    "music" : "#ff0000",
+    "moderation": "#ff5b15",
+    "instagram": "#ab54ff",
+    "youtube": "#ff0000",
+    "bots": "#ab54ff",
+
+
+    "ownerID": "919429162421350451",
+    "SessionID": ""
+}

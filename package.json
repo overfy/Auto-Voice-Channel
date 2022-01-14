@@ -1,0 +1,30 @@
+{
+  "name": "nixtest",
+  "version": "1.0.0",
+  "lockfileVersion": 2,
+  "requires": true,
+  "main" : "index.js",
+  "scripts" : {
+    "start" : "node index.js"
+  },
+  "packages": {
+    "": {
+      "version": "1.0.0",
+      "license": "ISC"
+    }
+  },
+  "dependencies": {
+    "colon-notation": "^1.2.1",
+    "discord.js": "^13.6.0",
+    "distube": "^3.1.0",
+    "dotenv": "^11.0.0",
+    "express": "^4.17.2",
+    "glob": "^7.2.0",
+    "moment": "^2.29.1",
+    "mongoose": "^6.1.6",
+    "scraper-instagram": "^1.0.17",
+    "spotify-url": "^1.0.0",
+    "spotify-url-info": "^2.2.3",
+    "ytdl-core": "^4.10.0"
+  }
+}
